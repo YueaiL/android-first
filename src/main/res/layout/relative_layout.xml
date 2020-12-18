@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/rela">
+        <View
+            android:layout_width="200dp"
+            android:layout_height="200dp"
+            android:background="#4d79ff"
+            android:id="@+id/view_blue"
+            >
+
+        </View>
+        <Button
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:id="@+id/black"
+            android:text="返回"
+            android:layout_alignParentBottom="true"
+
+            >
+
+        </Button>
+
+    </RelativeLayout>
+</RelativeLayout>

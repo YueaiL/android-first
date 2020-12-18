@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">first</string>
+    <string name="linearValue">线性</string>
+    <string name="relativeName">相对</string>
+    <string name="liveTextView">Weclome</string>
+    <string name="todo">TODO</string>
+    <string name="add">add</string>
+</resources>

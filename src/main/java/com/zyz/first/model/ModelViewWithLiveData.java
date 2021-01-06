@@ -1,7 +1,5 @@
 package com.zyz.first.model;
 
-import android.nfc.tech.NfcB;
-
 import androidx.lifecycle.MutableLiveData;
 import androidx.lifecycle.ViewModel;
 
